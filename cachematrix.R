@@ -1,3 +1,6 @@
+#############################################################################################
+## For this work I copied the solutions that were posted on
+## https://github.com/rdpeng/ProgrammingAssignment2/issues
 ################ makeCacheMatrix ############################################################
 ## This function creates a special "matrix" object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
